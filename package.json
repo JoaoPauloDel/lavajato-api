@@ -1,0 +1,26 @@
+{
+  "name": "lavajato-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoPauloDel/lavajato-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoPauloDel/lavajato-api/issues"
+  },
+  "homepage": "https://github.com/JoaoPauloDel/lavajato-api#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mysql2": "^3.22.4",
+    "nodemon": "^3.1.14"
+  }
+}
